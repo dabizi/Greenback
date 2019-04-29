@@ -12,7 +12,8 @@ Footprint of flights https://www.epa.gov/sites/production/files/2018-03/document
 
 (Interesting but in French : 
 https://www.lemonde.fr/m-perso/article/2019/02/22/l-avion-plaisir-coupable-de-l-ecolo-voyageur_5426851_4497916.html
-https://www.mangoandsalt.com/2019/03/01/empreinte-carbone-5-conseils-pour-voyager-plus-vert/)
+https://www.mangoandsalt.com/2019/03/01/empreinte-carbone-5-conseils-pour-voyager-plus-vert/
+https://www.lemonde.fr/planete/article/2019/03/04/les-gestes-a-adopter-pour-moins-polluer-en-avion_5430958_3244.html)
 
 
 MOD FOOD :
@@ -21,5 +22,10 @@ Footprint per type of food (without transport) - https://www.bbc.com/news/scienc
 MOD CLOTHES :
 Footprint per type of clothes - https://www.ademe.fr/sites/default/files/assets/documents/acv-biens-equipements-201809-rapport.pdf
 
+
+
+More :
 Great animation of cumulative CO2 emissions since 1750 per countries (updated in 2019).
 https://twitter.com/CarbonBrief/status/1120715988532629506
+
+https://www.lemonde.fr/planete/article/2019/04/11/combien-de-co2-pourrez-vous-emettre-dans-votre-vie-si-le-rechauffement-est-contenu-a-1-5-degre_5448606_3244.html
