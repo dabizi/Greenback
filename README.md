@@ -1,9 +1,9 @@
-# CO2
-
+# Greenback
 
 Welcome,
 you'll find here the sources and code of the calculation made by the Greenback app.
 
+Currently, the app is available on the Playstore. I'm converting it from java to javascript and will upload the contents in javascript as I progress through this conversion.
 
 Sources
 MOD PLANE :
