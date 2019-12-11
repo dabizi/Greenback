@@ -5,6 +5,9 @@ you'll find here the sources and code of the calculation made by the Greenback a
 
 Currently, the app is available on the Playstore. I'm converting it from java to javascript and will upload the contents in javascript as I progress through this conversion.
 
+Total of carbon emission for each area of the world
+https://ourworldindata.org/contributed-most-global-co2
+
 Sources
 MOD PLANE :
 
