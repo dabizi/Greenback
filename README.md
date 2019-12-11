@@ -41,6 +41,8 @@ https://www.lemonde.fr/planete/article/2019/04/11/combien-de-co2-pourrez-vous-em
 Video :
 https://www.youtube.com/watch?v=RT5h-lLH0QA
 
+Color gradient :
+3ADB3A -> 206F20
 
 Background :
 https://unsplash.com/photos/0lHIMPhRtN8
