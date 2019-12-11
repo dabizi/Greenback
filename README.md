@@ -35,3 +35,14 @@ Great animation of cumulative CO2 emissions since 1750 per countries (updated in
 https://twitter.com/CarbonBrief/status/1120715988532629506
 
 https://www.lemonde.fr/planete/article/2019/04/11/combien-de-co2-pourrez-vous-emettre-dans-votre-vie-si-le-rechauffement-est-contenu-a-1-5-degre_5448606_3244.html
+
+
+# Source for app design :
+Video :
+https://www.youtube.com/watch?v=RT5h-lLH0QA
+
+
+Background :
+https://unsplash.com/photos/0lHIMPhRtN8
+https://unsplash.com/photos/dEOC8M_lmxI
+https://unsplash.com/photos/QsWG0kjPQRY
