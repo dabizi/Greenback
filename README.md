@@ -51,3 +51,8 @@ Background :
 https://unsplash.com/photos/0lHIMPhRtN8
 https://unsplash.com/photos/dEOC8M_lmxI
 https://unsplash.com/photos/QsWG0kjPQRY
+
+
+Coalition for Rainforest Nation, effectiveness
+https://founderspledge.com/stories/climate-change-executive-summary
+According to our cost-effectiveness model, a donation to CfRN will avert a tonne of CO2e for $0.12, with a plausible range of $0.02 - $0.72. Equivalently, a $100 donation to CfRN would avert ~857 tonnes of CO2e with a range of ~138 tonnes to ~4,600 tonnes. These estimates are highly uncertain. For context, the average person in the UK causes the emission of around 10 tonnes of CO2 per year, and it is generally considered to be difficult to avert a tonne of CO2e for less than $2. 
