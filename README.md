@@ -92,3 +92,40 @@ https://www.factmag.com/2019/04/09/streaming-music-emissions-study/
 
 -----------
 
+
+Netflix se défend de contribuer massivement aux émissions de gaz à de serre. Selon son analyse publiée en 2015, un client a une empreinte carbone de seulement 300 g de CO2 / an et ajoute que ses infrastructures émettent 0,5 g de CO2 équivalent pour une heure de streaming. Et s'en amuse : "En moyenne la respiration humaine émet environ 40g par heure, près de 100 fois plus. Rester immobile en regardant Netflix économise probablement plus de CO2 que Netflix n'en brûle." 
+https://www.notre-planete.info/actualites/247-streaming-emissions-CO2
+
+----------
+
+•La vidéo est un support d’informations dense : 10h de film haute
+définition, c’est davantage de données
+que l’intégralité des articles en anglais
+de Wikipédia en format texte !
+•Le visionnage de vidéos en ligne a
+généré en 2018 plus de 300 MtCO2,
+soit autant de gaz à effet de serre que
+l’Espagne, ou près de 1 % des émissions mondiales.
+•Les vidéos pornographiques constituent 27 % de tout le trafic vidéo en
+ligne dans le monde. Elles ont généré
+à elles seules en 2018 plus de 80 MtCO2
+,
+soit autant que l’habitat en France, ou
+près de 0,2 % des émissions mondiales.
+•Les émissions de gaz à effet de
+serre des services de vidéo à la
+demande (de type Netflix ou Amazon Prime) équivalent à celles d’un
+pays comme le Chili (plus de 100
+MtCO2
+eq/an, soit près de 0,3 % des
+émissions mondiales), qui accueille la
+COP25 en 2019.
+
+https://theshiftproject.org/wp-content/uploads/2019/07/R%C3%A9sum%C3%A9-aux-d%C3%A9cideurs_FR_Linsoutenable-usage-de-la-vid%C3%A9o-en-ligne.pdf
+
+
+-----
+https://addons.mozilla.org/fr/firefox/addon/carbonalyser/
+
+--------
+https://theshiftproject.org/wp-content/uploads/2019/09/Guide-R%C3%A9duire-le-poids-de-vos-vid%C3%A9os-en-5-minutes_V6.pdf
