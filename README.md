@@ -83,3 +83,12 @@ An article in the Guardian revealed that 1g of CO2 was emitted for every 10 minu
 https://www.creditangel.co.uk/blog/consumption-and-carbon-footprint-of-the-internet
 
 --------
+
+The Cost of Music is a joint venture between the University of Glasgow and the University of Oslo, and warns that the energy used to store and stream digital media is just as harmful for the environment as plastic waste.[...]
+
+The study found that while music has never been cheaper to own – a vinyl record in 1977 cost an average of $28.55 in today’s money while a digital download in 2013 cost $11.11 – the amount people were willing to spend on music in those years dropped from 4.83% of their salary a week to 1.22%.
+
+https://www.factmag.com/2019/04/09/streaming-music-emissions-study/
+
+-----------
+
