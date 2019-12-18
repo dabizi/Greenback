@@ -66,3 +66,20 @@ Always use Wi-Fi over 3G or 4G – this is the more environmentally friendly opt
 
 Unsubscribe from any spam/junk emails even if you don’t open them – Unopened spam emails still use 0.3g of carbon dioxide
 Source : https://www.openaccessgovernment.org/carbon-footprint/70917/
+
+-----------
+
+60,000 searches made on Google every second. Combine that with the fact that the average search produces around 0.2g of CO2 and the quantity of emissions is quite remarkable.
+
+According to ‘internet live stats’, there are more than 2.5 million emails sent every second with a “everyday” email emitting 4g of CO2. That is quite astonishing. Especially when they also say that around 67% off all emails are spam. Anti-virus specialists, McAfee, say that this number is even higher, reporting that a remarkable 78% of all incoming emails are spam and that approximately 62 trillion spam messages are sent every year.
+
+Facebook say that their annual per-user carbon emissions is 299g of CO2, which is less than making 1 latte or boiling 1 pot of tea. This is quite an achievement, but when there are so many people using the site, it still adds up to a lot of emissions.
+
+Twitter
+Raffi Krikorian, a developer at Twitter once stated that each tweet consumes around 90 joules, equalling 0.02g of CO2 emissions. Hardly anything right? Correct, however there are approximately 8,000 tweets written and published every single second.
+
+Youtube
+An article in the Guardian revealed that 1g of CO2 was emitted for every 10 minutes of YouTube watched or 0.0017g per second. That’s right, so the next time you’re up late at night watching funny cat videos, remember that those adorable, cute and cuddly fur balls mean you are contributing to the breakdown of the Ozone layer.
+https://www.creditangel.co.uk/blog/consumption-and-carbon-footprint-of-the-internet
+
+--------
