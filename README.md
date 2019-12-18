@@ -133,3 +133,17 @@ https://theshiftproject.org/wp-content/uploads/2019/09/Guide-R%C3%A9duire-le-poi
 --------
 
 http://www.clickclean.org/france/fr/
+
+--------
+
+A report from the Department of Energy’s Lawrence Berkeley National Laboratory figures that those data centers use an enormous amount of energy — some 70 billion kilowatt hours per year. That amounts to 1.8% of total American electricity consumption. At an average cost of 10 cents per kwh, the annual cost of all that juice is on the order of $7 billion.
+
+Seventy billion kilowatt hours is such a giant number that it’s helpful to put it into some other terms. For comparison purposes, 1 kwh is enough power to keep ten 100-watt lightbulbs illuminated for one hour, or to keep your smartphone charged for an entire year. To generate 70 billion kwh you’d need power plants with a baseload capacity of 8,000 megawatts — equivalent to about 8 big nuclear reactors, or twice the output of all the nation’s solar panels.
+
+Sliced up per capita, the average American uses about 200 kwh a year for his or her internet use, costing about $20. For those of you obsessed with carbon footprints, your internet use is responsible for the emission of about 300 pounds of carbon dioxide per year.
+
+(Edit. One for the Green Techies – Food for thought isn’t it. So next time you recharge your phone just remember how much green house gas you are generating.)
+
+But our internet addiction is only growing. According to Nielsen, the average adult in the United States spends 10 hours and 39 minutes a day consuming digital media. That’s up an hour a day in the past year. And we’re spending most of that additional time peering at our smart phones, which now occupy us for an hour and a half each day.
+https://www.thebyte.com.au/it-takes-70-billion-kilowatt-hours-a-year-to-run-the-internet/
+
