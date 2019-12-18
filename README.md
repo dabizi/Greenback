@@ -129,3 +129,7 @@ https://addons.mozilla.org/fr/firefox/addon/carbonalyser/
 
 --------
 https://theshiftproject.org/wp-content/uploads/2019/09/Guide-R%C3%A9duire-le-poids-de-vos-vid%C3%A9os-en-5-minutes_V6.pdf
+
+--------
+
+http://www.clickclean.org/france/fr/
