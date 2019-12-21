@@ -40,6 +40,19 @@ https://twitter.com/CarbonBrief/status/1120715988532629506
 https://www.lemonde.fr/planete/article/2019/04/11/combien-de-co2-pourrez-vous-emettre-dans-votre-vie-si-le-rechauffement-est-contenu-a-1-5-degre_5448606_3244.html
 
 
+
+# Use of React-Navive
+npm install -g expo-cli
+
+New project : expo init <name>
+  
+List of available emulator : emulator -avd 
+
+move to folder then : expo start
+
+
+
+
 # Source for app design :
 Video :
 https://www.youtube.com/watch?v=RT5h-lLH0QA
