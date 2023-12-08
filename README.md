@@ -1,7 +1,6 @@
 # Greenback
 
-Welcome,
-you'll find here the sources and code of the calculation made by the Greenback app.
+Welcome, you'll find here the sources and code of the calculation made by the Greenback app.
 
 You can download the app here : https://play.google.com/store/apps/details?id=com.greenback.janin.v0_05&hl=fr
 
